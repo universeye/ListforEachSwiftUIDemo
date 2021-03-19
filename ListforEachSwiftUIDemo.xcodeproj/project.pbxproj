@@ -15,6 +15,7 @@
 		BF13986C25DBA39500E1DE52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF13986A25DBA39500E1DE52 /* LaunchScreen.storyboard */; };
 		BF13987725DBA39500E1DE52 /* ListforEachSwiftUIDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF13987625DBA39500E1DE52 /* ListforEachSwiftUIDemoTests.swift */; };
 		BF13988225DBA39500E1DE52 /* ListforEachSwiftUIDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF13988125DBA39500E1DE52 /* ListforEachSwiftUIDemoUITests.swift */; };
+		BF13989325DBAB3700E1DE52 /* CafeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF13989225DBAB3700E1DE52 /* CafeData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF13987D25DBA39500E1DE52 /* ListforEachSwiftUIDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ListforEachSwiftUIDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF13988125DBA39500E1DE52 /* ListforEachSwiftUIDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListforEachSwiftUIDemoUITests.swift; sourceTree = "<group>"; };
 		BF13988325DBA39500E1DE52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF13989225DBAB3700E1DE52 /* CafeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CafeData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BF13985F25DBA39300E1DE52 /* AppDelegate.swift */,
 				BF13986125DBA39300E1DE52 /* SceneDelegate.swift */,
 				BF13986325DBA39300E1DE52 /* ContentView.swift */,
+				BF13989225DBAB3700E1DE52 /* CafeData.swift */,
 				BF13986525DBA39500E1DE52 /* Assets.xcassets */,
 				BF13986A25DBA39500E1DE52 /* LaunchScreen.storyboard */,
 				BF13986D25DBA39500E1DE52 /* Info.plist */,
@@ -268,6 +271,7 @@
 			files = (
 				BF13986025DBA39300E1DE52 /* AppDelegate.swift in Sources */,
 				BF13986225DBA39300E1DE52 /* SceneDelegate.swift in Sources */,
+				BF13989325DBAB3700E1DE52 /* CafeData.swift in Sources */,
 				BF13986425DBA39300E1DE52 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
